@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @marcybor2004
+- 👀 I’m interested in hackin ...
+- 🌱 I’m currently learninqg cyber security
+- 💞️ I’m looking to collaborate on coding and programming...
+- 📫 How to reach me marcybor2004
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+marcybor2004/marcybor2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+love hacking
